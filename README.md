@@ -4,6 +4,7 @@
 - 🧠 My favorite language is JavaScript but I do know other programming languages
 - 👌 I like making open-source projects
 - 📧 Have any ideas? You can contact me at jluims@luisito.me
+- 📱 My discord is jluims#9022 (948086346851962881)
 
 ![](https://komarev.com/ghpvc/?username=jluims)
 
